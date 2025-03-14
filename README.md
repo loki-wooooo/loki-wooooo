@@ -60,7 +60,7 @@ Hi, I'm Hyo-Sic Woo!
     <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23F80000.svg?logo=oracle&logoColor=white"></a>
-	<a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
+    <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
     <a href="#"><img alt="Apache Hive" src ="https://img.shields.io/badge/Hive-%23FDBA12.svg?logo=hive&logoColor=black"></a>
     <a href="#"><img alt="Azure Synapse Analytics" src="https://img.shields.io/badge/Synapse%20Analytics-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
     <a href="#"><img alt="Azure Blob Storage" src="https://img.shields.io/badge/Azure%20Blob%20Storage-%2300A4EF.svg?logo=microsoft-azure&logoColor=white"></a>
@@ -74,15 +74,15 @@ Hi, I'm Hyo-Sic Woo!
 
 <p>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-%234285F4.svg?logo=google-chrome&logoColor=white"></a>
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white"></a>
-	<a href="#"><img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white"></a>
-	<a href="#"><img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?logo=eclipse-ide&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Eclipse IDE" src ="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?logo=eclipse-ide&logoColor=white"></a>
     <a href="#"><img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Git" src ="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> 
     <a href="#"><img alt="Apache Airflow" src ="https://img.shields.io/badge/Airflow-%23017CEE.svg?logo=apache-airflow&logoColor=white"></a> 
     <a href="#"><img alt="Apache NiFi" src="https://img.shields.io/badge/NiFi-%231A82E2.svg?logo=nifi&logoColor=white"></a>
     <a href="#"><img alt="KNIME" src="https://img.shields.io/badge/KNIME-%23F7DF1E.svg?logo=knime&logoColor=black"></a>
-	<a href="#"><img alt="Paxata" src="https://img.shields.io/badge/Paxata-%23FF9900.svg?logo=paxata&logoColor=white"></a>
+    <a href="#"><img alt="Paxata" src="https://img.shields.io/badge/Paxata-%230072C6.svg?logo=paxata&logoColor=white"></a>
 </p> 
 
 ## 📊 Github Stats
