@@ -51,6 +51,8 @@ Hi, I'm Hyo-Sic Woo!
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2342b883.svg?logo=vue.js&logoColor=white"></a>
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?logo=fastapi&logoColor=white"></a>
 	<a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-%2300A7E1.svg?logo=langchain&logoColor=white"></a>
+	<a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-%234B8BBE.svg?logo=python&logoColor=white"></a>
+	<a href="#"><img alt="Web Crawling" src="https://img.shields.io/badge/Web%20Crawling-%2300A7E1.svg?logo=web&logoColor=white"></a>
 	<a href="#"><img alt="Gin" src="https://img.shields.io/badge/Gin-%2332CD32.svg?logo=go&logoColor=white"></a>
 </p>
 
