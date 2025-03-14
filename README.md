@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Hyo-Sic Woo!
+	안녕하세요, 우 효식 입니다!
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 	<img src="https://komarev.com/ghpvc/?username=loki-wooooo&label&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="loki-wooooo&label" />
 <br/>
@@ -13,9 +13,9 @@ Hi, I'm Hyo-Sic Woo!
 
 <hr/>
 <samp>
-	I am constantly learning 📚, experimenting 🛠️, and improving my skills 🚀 to build efficient and scalable systems.
-	With a strong focus on problem-solving 🧩, I enjoy working on creative solutions 🎨 and collaborating with teams 🤝 to achieve shared goals.
-	I value attention to detail 🔍, effective communication 💬, and a growth mindset 🌱 in everything I do.
+	저는 효율적이고 확장 가능한 시스템을 구축하기 위해 끊임없이 배우고 📚, 실험하며 🛠️, 기술을 발전시킵니다 🚀.
+	문제 해결 🧩에 집중하며 창의적인 해결책 🎨을 찾고 팀과 협력 🤝해 목표를 달성하는 것을 즐깁니다.
+	세심함 🔍, 효과적인 소통 💬, 그리고 성장 마인드 🌱를 모든 일에 중요하게 생각합니다.
 </samp>
 
 ## 🔥 Streak Stats
@@ -25,7 +25,7 @@ Hi, I'm Hyo-Sic Woo!
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yashita's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yashitanamdeo&theme=monokai-metallian&hide_border=true"/>
   </a>
-  <p align="center"> If you can dream it, you can do it.🔥 </p>
+  <p align="center"> 🔥 꿈은 이루어진다. </p>
 </p>
 
 ## 🛠️ My Favorite Tools
