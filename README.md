@@ -6,8 +6,11 @@ Hi, I'm Hyo-Sic Woo!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Data+Engineer;Always+Learning+New+Things&center=true&width=500&height=50&color=4CAF50&background=00000000">
+  </a>
 </p>
+
 <hr/>
 <samp>
 	I am constantly learning 📚, experimenting 🛠️, and improving my skills 🚀 to build efficient and scalable systems.
@@ -30,7 +33,10 @@ Hi, I'm Hyo-Sic Woo!
 ### 👨‍💻 Programming Languages
 
 <p>
+	<!--
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23f89820.svg?logo=java&logoColor=white"></a>
+	-->
+	<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23f89820.svg?style=flat&logo=openjdk&logoColor=white"></a>
     <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23E24462.svg?logo=kotlin&logoColor=white"></a>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%234B8BBE.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white"></a>
@@ -53,14 +59,14 @@ Hi, I'm Hyo-Sic Woo!
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-%2300758F.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-%23F80000.svg?logo=oracle&logoColor=white"></a>
-    <a href="#"><img alt="MSSQL" src ="https://img.shields.io/badge/MSSQL-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
+    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23F80000.svg?logo=oracle&logoColor=white"></a>
+	<a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
     <a href="#"><img alt="Apache Hive" src ="https://img.shields.io/badge/Hive-%23FDBA12.svg?logo=hive&logoColor=black"></a>
-    <a href="#"><img alt="Azure Synapse Analytics" src ="https://img.shields.io/badge/Synapse%20Analytics-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
-    <a href="#"><img alt="Azure Blob Storage" src ="https://img.shields.io/badge/Azure%20Blob%20Storage-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
+    <a href="#"><img alt="Azure Synapse Analytics" src="https://img.shields.io/badge/Synapse%20Analytics-%230072C6.svg?logo=microsoft-azure&logoColor=white"></a>
+    <a href="#"><img alt="Azure Blob Storage" src="https://img.shields.io/badge/Azure%20Blob%20Storage-%2300A4EF.svg?logo=microsoft-azure&logoColor=white"></a>
     <a href="#"><img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon%20S3-%23FF9900.svg?logo=amazon-s3&logoColor=black"></a>
     <a href="#"><img alt="MinIO" src ="https://img.shields.io/badge/MinIO-%23FF2020.svg?logo=minio&logoColor=white"></a>
-    <a href="#"><img alt="Apache Hadoop" src ="https://img.shields.io/badge/Hadoop-%23266A99.svg?logo=hadoop&logoColor=white"></a>
+    <a href="#"><img alt="Apache Hadoop" src="https://img.shields.io/badge/Hadoop-%23266A99.svg?logo=apache-hadoop&logoColor=white"></a>
 </p>
 
 
@@ -74,8 +80,9 @@ Hi, I'm Hyo-Sic Woo!
     <a href="#"><img alt="Postman" src ="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Git" src ="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a> 
     <a href="#"><img alt="Apache Airflow" src ="https://img.shields.io/badge/Airflow-%23017CEE.svg?logo=apache-airflow&logoColor=white"></a> 
-    <a href="#"><img alt="Apache NiFi" src ="https://img.shields.io/badge/NiFi-%231A82E2.svg?color=%231A82E2"></a> 
-    <a href="#"><img alt="KNIME" src ="https://img.shields.io/badge/KNIME-%23F7DF1E.svg?color=%23F7DF1E"></a> 
+    <a href="#"><img alt="Apache NiFi" src="https://img.shields.io/badge/NiFi-%231A82E2.svg?logo=nifi&logoColor=white"></a>
+    <a href="#"><img alt="KNIME" src="https://img.shields.io/badge/KNIME-%23F7DF1E.svg?logo=knime&logoColor=black"></a>
+	<a href="#"><img alt="Paxata" src="https://img.shields.io/badge/Paxata-%23FF9900.svg?logo=paxata&logoColor=white"></a>
 </p> 
 
 ## 📊 Github Stats
