@@ -48,7 +48,15 @@ Hi, I'm Hyo-Sic Woo!
 
 <p>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
+	<a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
+	<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
+	<a href="#"><img alt="Spring Quartz" src="https://img.shields.io/badge/Spring%20Quartz-%236DB33F.svg?logo=spring&logoColor=white"></a>
+	<a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?logo=springsecurity&logoColor=white"></a>
+	<a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-%230000FF.svg?logo=jpa&logoColor=white"></a>
+	<a href="#"><img alt="QueryDSL" src="https://img.shields.io/badge/QueryDSL-%230075C5.svg?logo=querydsl&logoColor=white"></a>
+	<a href="#"><img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-%23DC382D.svg?logo=mybatis&logoColor=white"></a>
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2342b883.svg?logo=vue.js&logoColor=white"></a>
+	<a href="#"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-%2342b883.svg?logo=vue.js&logoColor=white"></a>
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-%2300C7B7.svg?logo=fastapi&logoColor=white"></a>
 	<a href="#"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-%2300A7E1.svg?logo=langchain&logoColor=white"></a>
 	<a href="#"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-%234B8BBE.svg?logo=python&logoColor=white"></a>
