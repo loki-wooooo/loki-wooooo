@@ -48,7 +48,6 @@ Hi, I'm Hyo-Sic Woo!
 
 <p>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
-	<a href="#"><img alt="Spring Framework" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
 	<a href="#"><img alt="Spring Quartz" src="https://img.shields.io/badge/Spring%20Quartz-%236DB33F.svg?logo=spring&logoColor=white"></a>
 	<a href="#"><img alt="Spring Security" src="https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?logo=springsecurity&logoColor=white"></a>
 	<a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-%230000FF.svg?logo=jpa&logoColor=white"></a>
